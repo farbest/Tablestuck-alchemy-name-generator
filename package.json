@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "seedrandom": "^3.0.5",
+    "synonyms": "^1.0.1"
+  },
+  "name": "alchemy-name-generator",
+  "version": "1.0.0",
+  "main": "AlchemyNameGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.13.14",
+    "@babel/core": "^7.13.15",
+    "@babel/node": "^7.13.13",
+    "@babel/preset-env": "^7.13.15"
+  }
+}
